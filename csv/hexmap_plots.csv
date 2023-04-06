@@ -1,0 +1,52 @@
+Point,Row,Column,State,Abbreviation
+0,-5,0.5,Alaska,AK
+6,-11,7.5,Alabama,AL
+5,-10,6,Arkansas,AR
+5,-10,3,Arizona,AZ
+5,-10,2,California,CA
+4,-9,3.5,Colorado,CO
+3,-8,11,Connecticut,CT
+5,-10,12,District of Columbia,DC
+4,-9,9.5,Delaware,DE
+8,-13,8.5,Florida,FL
+7,-12,8,Georgia,GA
+8,-13,0.5,Hawaii,HI
+3,-8,5,Iowa,IA
+3,-8,2,Idaho,ID
+3,-8,6,Illinois,IL
+3,-8,7,Indiana,IN
+5,-10,5,Kansas,KS
+4,-9,6.5,Kentucky,KY
+6,-11,5.5,Louisiana,LA
+2,-7,10.5,Massachusetts,MA
+4,-9,8.5,Maryland,MD
+0,-5,11.5,Maine,ME
+2,-7,7.5,Michigan,MI
+2,-7,4.5,Minnesota,MN
+4,-9,5.5,Missouri,MO
+6,-11,6.5,Mississippi,MS
+2,-7,2.5,Montana,MT
+5,-10,9,North Carolina,NC
+2,-7,3.5,North Dakota,ND
+4,-9,4.5,Nebraska,NE
+1,-6,11,New Hampshire,NH
+3,-8,10,New Jersey,NJ
+6,-11,3.5,New Mexico,NM
+4,-9,2.5,Nevada,NV
+2,-7,9.5,New York,NY
+3,-8,8,Ohio,OH
+6,-11,4.5,Oklahoma,OK
+4,-9,1.5,Oregon,OR
+3,-8,9,Pennsylvania,PA
+2,-7,11.5,Rhode Island,RI
+6,-11,8.5,South Carolina,SC
+3,-8,4,South Dakota,SD
+5,-10,7,Tennessee,TN
+7,-12,4,Texas,TX
+5,-10,4,Utah,UT
+5,-10,8,Virginia,VA
+1,-6,10,Vermont,VT
+2,-7,1.5,Washington,WA
+2,-7,5.5,Wisconsin,WI
+4,-9,7.5,West Virginia,WV
+3,-8,3,Wyoming,WY
