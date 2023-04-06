@@ -26,7 +26,7 @@ chrome.exe --remote-debugging-port=8000 --user-data-dir="D:\Chromedata"
 3. Establish the relationship between 3 files: First, the Job Information Data is linked with Location Data by ID. The Location Data's "States abbreviation" is equivalent to Hexagon Map's "Abbreviation".
 4. Feel free to use any charts to visualize your data. Here is an example dashboard: [Data Visualization.twbx](https://github.com/Scarlett04/handshake-scrapping/blob/main/Data%20Visualization.twbx).
 
-![Data Visualization](https://user-images.githubusercontent.com/86146191/229308746-80ef2683-06d9-4375-a941-200564ab9185.jpg)
+![Data Visualization](https://user-images.githubusercontent.com/86146191/230471149-0a6ed50e-9f2d-4ead-8f9a-88b9c35fb7c7.jpg)
 
 Video Demo:
 
