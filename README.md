@@ -28,8 +28,4 @@ chrome.exe --remote-debugging-port=8000 --user-data-dir="D:\Chromedata"
 
 ![Data Visualization](https://user-images.githubusercontent.com/86146191/230471149-0a6ed50e-9f2d-4ead-8f9a-88b9c35fb7c7.jpg)
 
-Video Demo:
-
-https://user-images.githubusercontent.com/86146191/227438199-2f0fdeb7-617c-4fa0-86f4-6cbda141c29b.mp4
-
 Tableau: https://public.tableau.com/app/profile/tran.ho4576/viz/DataVisualization_16803730460700/Dashboard1
